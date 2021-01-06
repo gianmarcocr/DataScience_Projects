@@ -1,3 +1,5 @@
+
+
 # DataScience_Projects
 Colletions of projects done during my M.Sc in Data Science, UniPD
 
@@ -17,10 +19,10 @@ Colletions of projects done during my M.Sc in Data Science, UniPD
 ## Optimization for Data Science:
 **Final Project: Variance Reduction in Projection-Free Optimization**
 
-&nbsp;&nbsp;&nbsp;&nbsp; ***to be updated***
+&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
 
 #### Homework: Full Gradient Method, SGM and SVRG
-&nbsp;&nbsp;&nbsp;&nbsp; ***to be updated***
+&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
 
 ## High Dimensional Probability:
 **Homework:**
@@ -29,28 +31,29 @@ Colletions of projects done during my M.Sc in Data Science, UniPD
 
 **Final Project:**
 
-&nbsp;&nbsp;&nbsp;&nbsp; ***to be updated***
+&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
 
 ## Vision & Cognitive Services:
 **Final Project: State of the Art Multi Object Traking: An Overview**
 
-&nbsp;&nbsp;&nbsp;&nbsp; ***to be updated***
+&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
 ## Machine Learning:
 **Final Project: Emojify: Sentiment classification with emojis**
-
-&nbsp;&nbsp;&nbsp;&nbsp; ***to be updated***
-## Statistical Learning:
-**Final Project: Prediction Diamonds Price**
-
-&nbsp;&nbsp;&nbsp;&nbsp; ***to be updated***
 
 ## Game Theory:
 **Homework: GANs and Game Theory**
 
-&nbsp;&nbsp;&nbsp;&nbsp; ***to be updated***
+&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
+
+&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
+## Statistical Learning:
+**Final Project: Prediction Diamonds Price**
+
+&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
+
 
 ## Cognitive, Behavioural & Social data:
 
 **Final Project: Predicting Political orientation form Twitter content**
 
-&nbsp;&nbsp;&nbsp;&nbsp; ***to be updated***
+&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
