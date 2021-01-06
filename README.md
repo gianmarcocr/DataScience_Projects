@@ -45,7 +45,6 @@ Colletions of projects done during my M.Sc in Data Science, UniPD
 
 &nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
 
-&nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
 ## Statistical Learning:
 **Final Project: Prediction Diamonds Price**
 
