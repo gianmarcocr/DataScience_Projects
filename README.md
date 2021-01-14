@@ -12,9 +12,13 @@ Colletions of projects done during my M.Sc in Data Science, UniPD
 
 &nbsp;&nbsp;&nbsp;&nbsp; Convolutional autoencoder, encoder+classifier, denoising autoencoder, GAN.
 
+&nbsp;&nbsp;&nbsp;&nbsp; *to be uploaded*
+
 **Homework 3: Deep Reinforcement Learning**
 
 &nbsp;&nbsp;&nbsp;&nbsp; DQN, trials on OpenAI's Gym.
+
+&nbsp;&nbsp;&nbsp;&nbsp; *to be uploaded*
 
 ## Optimization for Data Science:
 **Final Project: Variance Reduction in Projection-Free Optimization**
@@ -39,9 +43,6 @@ Colletions of projects done during my M.Sc in Data Science, UniPD
 &nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
 ## Machine Learning:
 **Final Project: Emojify: Sentiment classification with emojis**
-
-## Game Theory:
-**Homework: GANs and Game Theory**
 
 &nbsp;&nbsp;&nbsp;&nbsp; *to be updated*
 
