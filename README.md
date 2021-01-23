@@ -12,8 +12,6 @@ Colletions of projects done during my M.Sc in Data Science, UniPD
 
 &nbsp;&nbsp;&nbsp;&nbsp; Convolutional autoencoder, encoder+classifier, denoising autoencoder, GAN.
 
-&nbsp;&nbsp;&nbsp;&nbsp; *to be uploaded*
-
 **Homework 3: Deep Reinforcement Learning**
 
 &nbsp;&nbsp;&nbsp;&nbsp; DQN, trials on OpenAI's Gym.
